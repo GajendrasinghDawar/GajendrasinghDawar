@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gajendrasingh dawar
 ===========================================================================================================================================
 
-I'm Full Stack Developer( As I think 😉).
+Full Stack Developer( As I think 😉).
 -----------------------------------------
 
 *   🌍  I'm based in Khargone(M.P.), India.
@@ -23,7 +23,9 @@ I'm Full Stack Developer( As I think 😉).
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" width="36" height="36" alt="Django" /></a>
 </p>
                     
+### Socials
 
-                  ### Socials
-                  
-                  <p align="left"> <a href="https://www.linkedin.com/in/gajendrasingh-d-49597b23a" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Gajendrsinghdwr" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> 
+  <a href="https://www.linkedin.com/in/gajendrasingh-d-49597b23a" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>  
+ <a href="https://www.twitter.com/Gajendrsinghdwr" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+</p>
