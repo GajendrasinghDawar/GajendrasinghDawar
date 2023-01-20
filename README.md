@@ -4,10 +4,9 @@ Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-
 Full Stack Developer( As I think 😉)
 -----------------------------------------
 
-*   🌍  I'm based in Khargone(M.P.), India.
-*   🚀  I'm currently working on [secrete app 🤫.](http://#)
-*   🧠  I'm learning NextJs and More...
-*   🤝  I'm open to collaborating on Any ReactJs project.
+*   🌍  I'm live in Khargone(M.P.), India.
+*   🚀  I'm currently working on secrete app 🤫.
+*   🧠  I'm also learning NextJs and ? ...
 *   ⚡  Suggest me good book on novels and Shayari.
 
 ### Skills 
