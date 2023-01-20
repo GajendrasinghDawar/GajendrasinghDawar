@@ -1,8 +1,6 @@
-#Hello 👋 My name is Gajendrasingh Dawar.
+# Hello 👋 My name is Gajendrasingh Dawar.
 
-Full Stack Developer( As I think 😉)
------------------------------------------
-
+### Here is my Quick summary,
 *   🌍  I'm live in Khargone(M.P.), India.
 *   🚀  I'm currently working on secrete app 🤫.
 *   🧠  I'm also learning NextJs and ? ...
