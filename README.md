@@ -4,7 +4,7 @@
 *   🌍  I'm live in Khargone(M.P.), India.
 *   🚀  I'm currently working on secrete app 🤫.
 *   🧠  I'm also learning NextJs and ? ...
-*   ⚡  Suggest me good book on novels and Shayari.
+*   ⚡  Suggest me good books on novels and Shayari.
 
 ### Skills 
 <p align="left">
