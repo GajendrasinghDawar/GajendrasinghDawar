@@ -2,7 +2,7 @@
 
 ### Here is my Quick summary,
 *   🌍  I'm live in Khargone(M.P.), India.
-*   🧠  I'm currently experiment with web tools 🤫.
+*   🧠  I'm currently experimenting with web tools 🤫.
 *   ⚡  Suggest me good books on novels and Shayari.
 
 ### Skills 
