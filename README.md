@@ -1,4 +1,4 @@
-# Hello 👋 My name is Gajendrasingh Dawar.
+# Hello 👋.
 
 ### Here is my Quick summary,
 *   🌍  I'm live in Khargone(M.P.), India.
