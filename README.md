@@ -20,5 +20,5 @@
 
 [LinkedIn](https://www.linkedin.com/in/gajendrasinghdawar)
 
-[Twitter]((https://twitter.com/Gajendrsinghdwr))
+[Twitter](https://twitter.com/Gajendrsinghdwr)
 
