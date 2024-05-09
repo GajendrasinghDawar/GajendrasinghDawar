@@ -17,5 +17,7 @@
 
 ### Socials
 
+[My Portfolio](https://your-portfolio-url.com)
+
 [LinkedIn]([https://github.com](https://www.linkedin.com/in/gajendrasingh-d-49597b23a))
 
