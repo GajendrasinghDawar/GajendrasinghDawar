@@ -1,9 +1,9 @@
 # Hello 👋.
 
 ### Here is my Quick summary,
-*     I'm a Web developer.
-*     I'm live in Khargone(M.P.), India.
-*     I'm currently learning many things.
+* I'm a Web developer.
+* I'm live in Khargone(M.P.), India.
+* I'm currently learning many things.
 
 ### Skills 
 - Python
