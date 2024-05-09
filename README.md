@@ -18,5 +18,5 @@
 
 ### Socials
 
-[LinkedIn](https://www.linkedin.com/in/gajendrasingh-d-49597b23a)
+[LinkedIn](https://www.linkedin.com/in/gajendrasinghdawar)
 
