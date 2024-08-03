@@ -3,7 +3,7 @@ Over the past months, I have dedicated myself to understarding Laravel, a PHP fr
 
 ## Technical Skills 🛠️
 - **Languages**: JavaScript, Python, PHP, CSS, HTML.
-- **Frameworks & Libraries**: React, Next.js, Node.js, Laravel.
+- **Frameworks & Libraries**: React, Next.js, Node.js, Laravel, Tailwind, framer motion.
 - **Tools & Platforms**: GitHub, AWS.
 
 ## Key Projects 📚
