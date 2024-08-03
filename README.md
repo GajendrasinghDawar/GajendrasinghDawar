@@ -7,7 +7,7 @@ Over the past month, I have dedicated myself to understarding Laravel, a powerfu
 - **Tools & Platforms**: GitHub, Docker, AWS, Vercel
 
 ## Key Projects 📚
-- [Forumm](https://www.linkedin.com/in/gajendrasinghdawar): This project demonstrates my understanding in Laravel and  ability to integrate various features to create functional web application.
+- [Forumm](https://github.com/GajendrasinghDawar/Forumm): This project demonstrates my understanding in Laravel and  ability to integrate various features to create functional web application.
 
 ## Connect with Me 📬
 - [LinkedIn](https://www.linkedin.com/in/gajendrasinghdawar)
