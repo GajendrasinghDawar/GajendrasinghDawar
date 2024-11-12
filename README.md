@@ -1,4 +1,4 @@
-Hello 👋, I'm a full stack Web developer with a foundation in both backend and frontend technologies. Live in Khargone(M.P.), India. 
+Hello 👋, I'm a Web developer with a foundation in both backend and frontend technologies. Live in Khargone(M.P.), India. 
 Over the past months, I have dedicated myself to understarding Laravel, a PHP framework. Continuously learning to stay updated with the latest trends and technologies in web development.
 
 ## Technical Skills 🛠️
