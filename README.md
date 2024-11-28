@@ -1,10 +1,11 @@
 Hello 👋, I'm a Web developer with a foundation in both backend and frontend technologies. Live in Khargone(M.P.), India. 
-Over the past months, I have dedicated myself to understarding Laravel, a PHP framework. Continuously learning to stay updated with the latest trends and technologies in web development.
+Over the past months, I have dedicated myself to understanding Web technologies, like Progresive web app, Web Apis, and NodeJs on Backend, and tried learning other backend languages like Python and PHP.
+
 
 ## Technical Skills 🛠️
-- **Languages**: PHP, JavaScript, Python, CSS, HTML.
-- **Frameworks & Libraries**: Laravel, React,Tailwind, Next.js.
-- **Tools & Platforms**: GitHub, AWS, Linux(Ubuntu).
+- **Languages**: JavaScript, Python, PHP, CSS, HTML.
+- **Frameworks & Libraries**: NodeJs, React,Tailwind, Next.js, Laravel, Django.
+- **Tools & Platforms**: Git, GitHub, AWS, Linux(Ubuntu).
 
 ## Key Projects 📚
 - [Forumm](https://github.com/GajendrasinghDawar/Forumm): This project demonstrates my understanding in Laravel and  ability to integrate various features to create functional web application.
