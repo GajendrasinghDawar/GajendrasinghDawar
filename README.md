@@ -1,16 +1,16 @@
-Hello 👋, I'm a Web developer with a foundation in both backend and frontend technologies. Live in Khargone(M.P.), India. 
-Over the past months, I have dedicated myself to understanding Web technologies, like Progresive web app, Web Apis, and NodeJs on Backend, and tried learning other backend languages like Python and PHP.
-
+Hello, I'm a Web developer with a foundation in both backend and frontend technologies. Live in Indore, (M.P.) India.
+Currently seeking job in web development. In the future, I am interested in learning and building more with local-first software and LLMs.
+Thankyou.
 
 ## Technical Skills 
-- **Languages**: JavaScript, Python, Typescript, CSS, HTML.
-- **Frameworks & Libraries**: NodeJs, React, Next.js, Tailwind, Django.
-- **Tools & Platforms**: Git, GitHub, AWS, Linux(Ubuntu).
+**Web platform**: HTML, CSS, Javascript, progressive web apps, responsive design.
+**Web frameworks and servers**: Node.js, Typescript, React.js, Next.js, Tailwind, Framer motion, Python.
+**Development environments and tools**: Git, Github, AWS, Ubuntu Linux , Markdown.
 
-## Key Projects 📚
-- [Forumm](https://github.com/GajendrasinghDawar/Forumm): This project demonstrates my understanding in Laravel and  ability to integrate various features to create functional web application.
+## Key Projects
+- [Vocabulary learning app](https://github.com/GajendrasinghDawar/Forumm): This project demonstrates my understanding in Laravel and  ability to integrate various features to create functional web application.
 
-## Connect with Me 📬
+## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/gajendrasinghdawar)
 - [Twitter](https://twitter.com/Gajendrsinghdwr)
 
