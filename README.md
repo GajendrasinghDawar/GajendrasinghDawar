@@ -1,6 +1,4 @@
-Hello, I'm a Web developer with a foundation in both backend and frontend technologies. I live in Indore, (M.P.) India.
-I'm currently seeking a job in web development. In the future, I'm interested in learning and building more with **local-first software** and **LLMs**.
-Thank you.
+Full-stack Web Developer | Indore, India | Building modern web applications with passion for local-first software & AI integration | Open to job opportunities
 
 ## Technical Skills
 * **Web platform**: HTML, CSS, JavaScript, Progressive Web Apps, Responsive Design
