@@ -6,7 +6,7 @@ Full-stack Web Developer | Indore, India | Building web applications with passio
 * **Development environments and tools**: Git, GitHub, AWS, Ubuntu Linux, Markdown
 
 ##  Projects
-1.  [**AHEM**](https://www.ahem.live): AHEM is a vocabulary learning web based ai agent designed to help master essential English words with the help of LLM.
+1.  [**AHEM**](https://www.ahem.live): AHEM is a vocabulary learning web based ai agent designed to help HINDI speaker master essential English words with the help of LLM.
 
 ## Connect with Me
 * [LinkedIn](https://www.linkedin.com/in/gajendrasinghdawar)
